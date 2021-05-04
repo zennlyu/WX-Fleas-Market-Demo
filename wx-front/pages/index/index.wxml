@@ -1,0 +1,40 @@
+<!--index.wxml-->
+<view class="container">
+  <swiper class="banner" indicator-dots="true" autoplay="true" interval="3000" duration="1000">
+    <swiper-item wx:for="{{banner}}" wx:key="{{item.id}}">
+      <navigator url="{{item.link}}">
+        <image src="{{item.imageUrl}}" background-size="cover"></image>
+      </navigator>
+    </swiper-item>
+
+  </swiper>
+
+  <!-- 首页分类 -->
+  <view class="m-menu">
+    <navigator open-type="{{item.url == '/pages/category/index/index' ? 'reLaunch':'navigate'}}" class="item" url="{{item.url}}" wx:for="{{channel}}" wx:key="{{item.id}}">
+      <image src="{{item.iconUrl}}" background-size="cover"></image>
+      <text>{{item.name}}</text>
+    </navigator>
+  </view>
+
+
+  <!-- 推荐商品 -->
+  <view class="a-section a-rec" wx:if="{{indexGoods.length > 0}}">
+    <view class="h">
+      <view>
+        <navigator url="../newGoods/newGoods">
+          <text class="txt">为你推荐</text>
+        </navigator>
+      </view>
+    </view>
+    <view class="b">
+      <view class="item" wx:for="{{indexGoods}}" wx:for-index="index" wx:for-item="item" wx:key="{{item.id}}">
+        <navigator url="../goods/goods?id={{item.id}}">
+          <image class="img" src="{{item.primaryPicUrl}}" background-size="cover"></image>
+          <text class="name">{{item.name}}</text>
+          <text class="price">￥{{item.price}}</text>
+        </navigator>
+      </view>
+    </view>
+  </view>
+</view>

@@ -1,0 +1,9 @@
+<view class="container">
+
+  <view class="result-empty" >
+    <view class="c">
+      <image src="https://i.postimg.cc/Gpjj2N0m/helmet.png" />
+      <text>功能正在开发中...</text>
+    </view>
+  </view>
+</view>

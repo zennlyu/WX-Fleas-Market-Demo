@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: user-service
+  cloud:
+    stream:
+      bindings:
+        register-input:
+          destination: register
+          group: registerGroup
+  profiles:
+    active: ${SPRING_PROFILE_ACTIVE:dev}
+
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
+
+logging:
+  level:
+    org.springframework.web: info
+    io.github.nnkwrik.userservice: debug

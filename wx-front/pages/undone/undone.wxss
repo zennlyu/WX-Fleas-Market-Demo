@@ -1,0 +1,40 @@
+page {
+  background: #f4f4f4;
+  min-height: 100%;
+}
+
+.container {
+  background: #f4f4f4;
+  min-height: 100%;
+}
+
+.result-empty {
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.result-empty .c {
+  width: 100%;
+  height: auto;
+  margin-top: 300rpx;
+}
+
+.result-empty .c image {
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+  width: 180rpx;
+  height: 180rpx;
+}
+
+.result-empty .c text {
+  margin: 30rpx auto;
+  display: block;
+  width: 258rpx;
+  height: 29rpx;
+  line-height: 29rpx;
+  text-align: center;
+  font-size: 29rpx;
+  color: #999;
+}
