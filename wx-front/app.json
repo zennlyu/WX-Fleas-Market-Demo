@@ -27,13 +27,14 @@
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "贩闲",
     "navigationBarTextStyle": "black",
-    "enablePullDownRefresh": false
+    "enablePullDownRefresh": true
   },
   "tabBar": {
     "backgroundColor": "#fafafa",
     "borderStyle": "white",
     "selectedColor": "#333",
     "color": "#333",
+    "position": "bottom",
     "list": [
       {
         "pagePath": "pages/index/index",
