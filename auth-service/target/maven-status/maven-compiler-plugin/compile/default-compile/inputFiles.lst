@@ -1,0 +1,12 @@
+/Users/lydia/Desktop/VS/WX-Fleas-Market-Demo/auth-service/src/main/java/io/github/nnkwrik/authservice/mq/RegisterStreamSender.java
+/Users/lydia/Desktop/VS/WX-Fleas-Market-Demo/auth-service/src/main/java/io/github/nnkwrik/authservice/token/RSAKeysGenerator.java
+/Users/lydia/Desktop/VS/WX-Fleas-Market-Demo/auth-service/src/main/java/io/github/nnkwrik/authservice/config/WxMaProperties.java
+/Users/lydia/Desktop/VS/WX-Fleas-Market-Demo/auth-service/src/main/java/io/github/nnkwrik/authservice/service/impl/AuthServiceImpl.java
+/Users/lydia/Desktop/VS/WX-Fleas-Market-Demo/auth-service/src/main/java/io/github/nnkwrik/authservice/AuthServiceApplication.java
+/Users/lydia/Desktop/VS/WX-Fleas-Market-Demo/auth-service/src/main/java/io/github/nnkwrik/authservice/config/WxMaConfiguration.java
+/Users/lydia/Desktop/VS/WX-Fleas-Market-Demo/auth-service/src/main/java/io/github/nnkwrik/authservice/model/vo/AuthVo.java
+/Users/lydia/Desktop/VS/WX-Fleas-Market-Demo/auth-service/src/main/java/io/github/nnkwrik/authservice/dto/DetailAuthDTO.java
+/Users/lydia/Desktop/VS/WX-Fleas-Market-Demo/auth-service/src/main/java/io/github/nnkwrik/authservice/service/AuthService.java
+/Users/lydia/Desktop/VS/WX-Fleas-Market-Demo/auth-service/src/main/java/io/github/nnkwrik/authservice/dto/AuthDTO.java
+/Users/lydia/Desktop/VS/WX-Fleas-Market-Demo/auth-service/src/main/java/io/github/nnkwrik/authservice/token/TokenCreator.java
+/Users/lydia/Desktop/VS/WX-Fleas-Market-Demo/auth-service/src/main/java/io/github/nnkwrik/authservice/controller/AuthController.java

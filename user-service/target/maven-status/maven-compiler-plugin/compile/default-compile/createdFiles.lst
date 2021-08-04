@@ -1,0 +1,7 @@
+io/github/nnkwrik/userservice/service/impl/UserServiceImpl.class
+io/github/nnkwrik/userservice/model/User.class
+io/github/nnkwrik/userservice/dao/UserMapper.class
+io/github/nnkwrik/userservice/UserServiceApplication.class
+io/github/nnkwrik/userservice/controller/UserServiceController.class
+io/github/nnkwrik/userservice/mq/RegisterStreamReceiver.class
+io/github/nnkwrik/userservice/service/UserService.class

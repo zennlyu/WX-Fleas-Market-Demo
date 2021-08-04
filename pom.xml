@@ -7,7 +7,6 @@
     <artifactId>fangxianyu</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-
     <modules>
         <module>common</module>
         <module>inner-api</module>
@@ -36,6 +35,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
         <spring-cloud.version>Greenwich.M1</spring-cloud.version>
+
     </properties>
 
 
@@ -49,6 +49,7 @@
                 <scope>import</scope>
             </dependency>
         </dependencies>
+
     </dependencyManagement>
 
     <repositories>
@@ -87,6 +88,6 @@
                 <enabled>false</enabled>
             </snapshots>
         </pluginRepository>
-    </pluginRepositories>
 
+    </pluginRepositories>
 </project>

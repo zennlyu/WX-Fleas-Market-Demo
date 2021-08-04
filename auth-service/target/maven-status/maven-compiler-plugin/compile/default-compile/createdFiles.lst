@@ -1,0 +1,13 @@
+io/github/nnkwrik/authservice/dto/DetailAuthDTO.class
+io/github/nnkwrik/authservice/config/WxMaConfiguration.class
+io/github/nnkwrik/authservice/token/TokenCreator.class
+io/github/nnkwrik/authservice/token/RSAKeysGenerator.class
+io/github/nnkwrik/authservice/config/WxMaProperties.class
+io/github/nnkwrik/authservice/controller/AuthController.class
+io/github/nnkwrik/authservice/token/TokenCreator$1.class
+io/github/nnkwrik/authservice/model/vo/AuthVo.class
+io/github/nnkwrik/authservice/mq/RegisterStreamSender.class
+io/github/nnkwrik/authservice/service/impl/AuthServiceImpl.class
+io/github/nnkwrik/authservice/AuthServiceApplication.class
+io/github/nnkwrik/authservice/service/AuthService.class
+io/github/nnkwrik/authservice/dto/AuthDTO.class

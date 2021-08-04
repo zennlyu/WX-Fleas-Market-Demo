@@ -1,0 +1,7 @@
+/Users/lydia/Desktop/VS/WX-Fleas-Market-Demo/user-service/src/main/java/io/github/nnkwrik/userservice/service/UserService.java
+/Users/lydia/Desktop/VS/WX-Fleas-Market-Demo/user-service/src/main/java/io/github/nnkwrik/userservice/UserServiceApplication.java
+/Users/lydia/Desktop/VS/WX-Fleas-Market-Demo/user-service/src/main/java/io/github/nnkwrik/userservice/mq/RegisterStreamReceiver.java
+/Users/lydia/Desktop/VS/WX-Fleas-Market-Demo/user-service/src/main/java/io/github/nnkwrik/userservice/model/User.java
+/Users/lydia/Desktop/VS/WX-Fleas-Market-Demo/user-service/src/main/java/io/github/nnkwrik/userservice/service/impl/UserServiceImpl.java
+/Users/lydia/Desktop/VS/WX-Fleas-Market-Demo/user-service/src/main/java/io/github/nnkwrik/userservice/dao/UserMapper.java
+/Users/lydia/Desktop/VS/WX-Fleas-Market-Demo/user-service/src/main/java/io/github/nnkwrik/userservice/controller/UserServiceController.java
